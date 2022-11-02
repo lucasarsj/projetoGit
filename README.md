@@ -1,2 +1,2 @@
 # projetoGit
-Tutorial de como usar o Git
+aprendendo a como usar o Git
